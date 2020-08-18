@@ -1,29 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-08-18 21:08:52 +0530
-categories: jekyll update
+title: "Welcome to OSCvizag!"
+date: 2020-08-18 21:08:52 +0530
+categories: Created a Discord Server
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+![Discord](https://image.shutterstock.com/image-photo/kazan-russian-federation-jun-15-600w-1133809799.jpg)
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## What is discord?
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Discord is a messaging and voice-chat service, similar to skype. It offers a lot more functionality ("pinging" users, search through old messages, etc.), has no ads, and is easy to invite people to.
 
-Jekyll also offers powerful support for code snippets:
+## Why should I join?
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+You can meet cool members and have casual discussions on programming or other subjects without the clutter and inconvenience of going through other services. And if you join, you are expanding that pool of cool members.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+The goal of this discord server is to be minimalist, as reflected in this post, while still allowing for multifaceted discussion and some light fun. For more specifics, feel free to message us on discord.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+(This is a permanent invite link. Feel free to send it to anyone you want — the more, the merrier!)
+
+### Click here to join out [discord](https://discord.gg/Vxbmp8H) server
+
+<img src="https://media.giphy.com/media/XbxZ41fWLeRECPsGIJ/giphy.gif">
