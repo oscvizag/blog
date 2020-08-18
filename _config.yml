@@ -27,7 +27,7 @@ url: "https://oscvizag.github.io" # the base hostname & protocol for your site, 
 github_username:  oscvizag
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
