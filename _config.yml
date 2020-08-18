@@ -22,13 +22,13 @@ title: OSC Vizag
 email: saibaaskar24091999@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Organisation which is maintained by students
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 root: /
 url: https://oscvizag.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  oscvizag
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
