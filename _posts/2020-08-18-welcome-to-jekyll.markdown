@@ -5,11 +5,15 @@ date: 2020-08-18 21:08:52 +0530
 categories: Created a Discord Server
 ---
 
-![Discord](https://image.shutterstock.com/image-photo/kazan-russian-federation-jun-15-600w-1133809799.jpg)
+### Our logo for the year 2020-2021
+
+<img style="" src="https://cdn.discordapp.com/attachments/745136761885425674/745965340504227871/complete_darkmode.png">
 
 ## What is discord?
 
 Discord is a messaging and voice-chat service, similar to skype. It offers a lot more functionality ("pinging" users, search through old messages, etc.), has no ads, and is easy to invite people to.
+
+![Discord](https://image.shutterstock.com/image-photo/kazan-russian-federation-jun-15-600w-1133809799.jpg)
 
 ## Why should I join?
 
