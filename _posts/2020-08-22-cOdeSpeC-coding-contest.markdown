@@ -34,4 +34,4 @@ So journey with us can help you know the trends in the domain you pick.We will h
 <strong>Do fill the [Google Form](https://bit.ly/OSCinvite) to stay updated and join our discord channel for announcements
 you can clarify your doubts in the discord server during the contest.</strong>
 
-<img style="padding-left:35%;" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif">
