@@ -5,6 +5,8 @@ date: 2020-08-22 11:43:52 +0530
 categories: Programming contest
 ---
 
+##### Update contest is over visit [editorials](https://github.com/oscvizag/Coding-Contest-Editorials)
+
 ![cOdeSpeC poster](https://cdn.discordapp.com/attachments/745136761885425674/746418791180795994/Banner3.jpg)
 
 # About
